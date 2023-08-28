@@ -3,7 +3,7 @@ window.promises = [];
 // Do not change the code above this
 // add your promises to the array `promises`
 // Array to store the promises
-const promises = [];
+// const promises = [];
 
 // Function to generate a random delay between 1 and 5 seconds
 function getRandomDelay() {
